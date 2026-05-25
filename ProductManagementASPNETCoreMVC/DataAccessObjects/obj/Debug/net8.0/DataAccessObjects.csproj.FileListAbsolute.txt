@@ -1,0 +1,17 @@
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.deps.json
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.runtimeconfig.json
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.dll
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.pdb
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.AssemblyReference.cache
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfoInputs.cache
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfo.cs
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\obj\Debug\net8.0\DataAcce.79975846.Up2Date
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.dll
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\obj\Debug\net8.0\refint\DataAccessObjects.dll
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.pdb
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.genruntimeconfig.cache
+D:\Ky7\PRN222\ProductManagementASPNETCoreMVC\DataAccessObjects\obj\Debug\net8.0\ref\DataAccessObjects.dll
